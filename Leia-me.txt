@@ -1,18 +1,11 @@
-Ambiente de testes utilizado:
+Resolução adequada para execução: 1440 x 900;
 
-Windows XP SP3
+Navegadores recomendados, em ordem de preferência:
 
-As preferências de navegador, são, em ordem decrescente:
-Mozilla Firefox versão 3.6.17;
-Google Chrome versão 12.0.742.91;
+1) Mozilla Firefox v 3.6.24
+2) Google Chrome v 15.0.874.121m
+3) Internet Explorer 8, versão 8.0.6001.18702
 
-Não se recomenda a utilização de Internet Explorer. O site não foi testado em outros navegadores.
+Flash Player necessário.
 
-Resolução recomendada: 1440px x 900px;
-
-Página inicial a ser executada: index.html
-Codificação ideal: UTF-8
-
-
-
-Site feito por Bruno Seiki Tsuji Tinem, nº07 Turma 332
+Arquivo para inicialização: index.html
