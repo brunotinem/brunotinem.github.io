@@ -1,0 +1,18 @@
+Ambiente de testes utilizado:
+
+Windows XP SP3
+
+As preferências de navegador, são, em ordem decrescente:
+Mozilla Firefox versão 3.6.17;
+Google Chrome versão 12.0.742.91;
+
+Não se recomenda a utilização de Internet Explorer. O site não foi testado em outros navegadores.
+
+Resolução recomendada: 1440px x 900px;
+
+Página inicial a ser executada: index.html
+Codificação ideal: UTF-8
+
+
+
+Site feito por Bruno Seiki Tsuji Tinem, nº07 Turma 332
